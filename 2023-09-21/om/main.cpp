@@ -1,8 +1,16 @@
 #include <iostream>
 using namespace std;
+// SLUMP
+#include <stdlib.h>     /* srand, rand */
+#include <time.h>       /* time */
 int main()
+
 {
+      /* initialize random seed: */
+      srand (time(NULL));
+
      system("chcp 1252");
+     iSecret = rand() % 10 + 1;   // slumptal mellan 1 och 10
     // jämförelseoperatorer
     // Vad är en operator?
     // Något som har betydelse för
