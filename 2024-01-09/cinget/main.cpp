@@ -9,7 +9,7 @@ int main()
     // antag att användaren matar in abcde
     cout << tecken << endl; // Utskriften blir ab
     // Varför?
-    // sin.get(tecken 3); anger att 3 tecken (char) hamnar i variabeln
+    // cin.get(tecken 3); anger att 3 tecken (char) hamnar i variabeln
     // Vilka tre tecken?
     // ab och '\0'
     // Vad används '\0' till?
