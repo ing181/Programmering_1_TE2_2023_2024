@@ -27,7 +27,7 @@ int main()
     // utan argument, tomt mellan ()
     // kan använd för att programmet ska stanna upp.
      cin.get(); // Om du provar så märker du att programmet stannar
-     // på rad 28
+     // på rad 29
      cout << "Hej!" << endl; // syns när du tryckt Enter (Retur)
 
     return 0;
