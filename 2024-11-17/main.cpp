@@ -4,7 +4,7 @@ int main()
 {
     system("chcp 1252");
     int secretNumber = 36;
-    int guess = 0;
+    int guess;
 
     do{
         cout << "Gissa på ett tal mellan 0 och 100 >";
