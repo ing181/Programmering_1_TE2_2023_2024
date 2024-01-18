@@ -6,9 +6,10 @@ using namespace std;
 int main()
 {
     system("chcp 1252");
-    // char array
     int tal;
     float talf;
+	
+	// char array
     char in[100];
     cout << "Skriv in ett tal, Decimaltal eller heltal :>" << endl;
     cin >> in;
