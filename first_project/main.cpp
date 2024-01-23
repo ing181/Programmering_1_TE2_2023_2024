@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
   // skärm (cout), utmatningsoperator(<<),
-  // text ("Hello Worls"),
+  // text ("Hello World"),
   // utmatningsoperatorn(<<),
   // radbrytning(endl), slut på sats(;)
     cout << "Hello world!" << endl;
